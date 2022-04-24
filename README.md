@@ -1,2 +1,2 @@
-# LGM_Task2
-Here's my intermediate level task2 - To Create a Calculator Web Application.
+# Simple_Calculator
+Intermediate Level Task 2 - Create A Calculator using HTML, CSS, Js.
